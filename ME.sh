@@ -16,6 +16,8 @@ echo -ne '\n'
 
 
 figlet Sameer
+sleep 2
 figlet khan
+sleep 2
 figlet hacker
 
